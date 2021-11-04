@@ -1,5 +1,3 @@
-console.log('hola mundo','lola')
-
 const express=require("express")
 
 const app=express()
